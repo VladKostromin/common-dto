@@ -35,15 +35,3 @@
       <version>2.18.2</version>
     </dependency>
   </dependencies>
-
-  <distributionManagement>
-    <repository>
-      <id>nexus</id>
-      <url>http://nexus.dreamserver.site/repository/maven-dto-releases/</url>
-    </repository>
-    <snapshotRepository>
-      <id>nexus</id>
-      <url>http://nexus.dreamserver.site/repository/maven-snapshots/</url>
-    </snapshotRepository>
-  </distributionManagement>
-</project>
